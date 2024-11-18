@@ -120,3 +120,5 @@ Gerencia o acervo da biblioteca.
 
 - TypeScript
 - Node.js
+
+![Diagrama UML](diagrams/uml-diagram-gerenciamento-de-biblioteca.svg)
